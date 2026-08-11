@@ -74,14 +74,3 @@ Run the helper script to execute all 10 SQL queries directly against the databas
 python3 run_sql_analysis.py
 ```
 
----
-
-## 👤 Author
-
-**Shivam Chaudhary**
-- **GitHub**: [@sh1vam31](https://github.com/sh1vam31)
-
----
-
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
